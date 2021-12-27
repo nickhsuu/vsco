@@ -24,3 +24,7 @@
 #signature a {
     text-decoration: none;
 }
+
+#signature p {
+    font-size: smaller;
+}
