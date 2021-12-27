@@ -1,0 +1,26 @@
+#signature {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #222831;
+    width: 100%;
+    padding: 5vh 0 5vh 0;
+}
+
+#signature p,
+#signature div,
+#signature a {
+    background-color: #222831;
+    color: #eee;
+}
+
+
+#signature button {
+    border: 0;
+    margin: 1rem 2rem;
+    cursor: pointer;
+}
+
+#signature a {
+    text-decoration: none;
+}
