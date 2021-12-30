@@ -64,9 +64,8 @@
     gap: 10px;
     grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));;
     grid-template-rows: masonry;
-    align-tracks: start, end, stretch, space-between;
     
-    
+    align-tracks: space-evenly;
 }
 
 .item{
