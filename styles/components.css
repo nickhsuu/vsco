@@ -62,9 +62,8 @@
     display: grid;
     margin-bottom: 5rem;
     gap: 10px;
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));;
-    grid-template-rows: masonry;
-    
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    grid-template-rows: auto;
     align-tracks: space-evenly;
 }
 
